@@ -33,7 +33,7 @@ Invoke msfconsole:
 
 
 Type help or a question mark "?" to see the list of all available commands you can use inside msfconsole.
-**OUTPUT**
+## OUTPUT
 
 <img width="813" height="859" alt="image" src="https://github.com/user-attachments/assets/2e529053-a5a6-4f0a-b7c0-20915a440240" />
 
@@ -91,13 +91,15 @@ Find the IP address of the Metasploitable machine first. Then, use the db_nmap c
 db_nmap -sV -sC -p 3306 <metasploitable_ip_address>
 
 ## OUTPUT:
+<img width="900" height="169" alt="image" src="https://github.com/user-attachments/assets/1d7d655c-d5a6-4bd9-a7c4-e369af2c3d7e" />
+
 
 Use the search option to look for an auxiliary module to scan and enumerate the MySQL database.
 search type:auxiliary mysql
 ## OUTPUT:
+<img width="952" height="665" alt="image" src="https://github.com/user-attachments/assets/6e753ddf-e72f-4a5e-9b63-ad416132d062" />
 
 
-<img width="900" height="169" alt="image" src="https://github.com/user-attachments/assets/1d7d655c-d5a6-4bd9-a7c4-e369af2c3d7e" />
 
 use the auxiliary/scanner/mysql/mysql_version module by typing the module name or associated number to scan MySQL version details.
 use 11
