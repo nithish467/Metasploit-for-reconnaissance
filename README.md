@@ -25,15 +25,15 @@ Find out the ip address of the attackers system
 
 ## OUTPUT:
 
-![244957536-3124bd5e-f8c7-49c8-843f-f798d3c2a6fc](https://github.com/prithviraj5703/Metasploit-for-reconnaissance/assets/121418418/6a92561c-0161-4c39-ac80-3ad69b6ccb64)
+<img width="758" height="407" alt="image" src="https://github.com/user-attachments/assets/87873d52-eb34-41a6-8c23-26738bcd7cc0" />
 
 Invoke msfconsole:
 
-![244957563-ab8fc40d-0e55-40fb-aa28-a2567dffd231](https://github.com/prithviraj5703/Metasploit-for-reconnaissance/assets/121418418/747e0baf-678d-42f1-9142-3329af318d37)
+<img width="787" height="475" alt="image" src="https://github.com/user-attachments/assets/964e03a4-a957-4ff9-8df6-c9513a466efa" />
 
 Type help or a question mark "?" to see the list of all available commands you can use inside msfconsole.
 
-![244957577-9418b63d-9976-49f0-b2f1-23f505936edf](https://github.com/prithviraj5703/Metasploit-for-reconnaissance/assets/121418418/eea3b4bc-f2f2-42c7-b9e5-e94b7ecd2671)
+<img width="813" height="859" alt="image" src="https://github.com/user-attachments/assets/2e529053-a5a6-4f0a-b7c0-20915a440240" />
 
 
 ### Port Scanning:
@@ -41,7 +41,7 @@ Following command is executed for scanning the systems on our local area network
 
 ### Output:
 
-![244957590-3e461f4c-1e49-4477-9455-e695fb8b050f](https://github.com/prithviraj5703/Metasploit-for-reconnaissance/assets/121418418/a84ed579-95dc-49d2-aba2-2fe2787d0ddd)
+<img width="580" height="486" alt="image" src="https://github.com/user-attachments/assets/9e0e432e-5a35-4049-9c2a-e12abc87b288" />
 
 the db-nmap command to scan and save the results into Metasploit's postgresql attached database. In that way, you can use those results in the exploitation stage later.
 
