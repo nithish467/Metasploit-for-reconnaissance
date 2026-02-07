@@ -29,7 +29,7 @@ Find out the ip address of the attackers system
 
 Invoke msfconsole:
 ## OUTPUT:
-<img width="787" height="475" alt="image" src="https://github.com/user-attachments/assets/964e03a4-a957-4ff9-8df6-c9513a466efa" />
+<img width="731" height="794" alt="image" src="https://github.com/user-attachments/assets/9f29fc51-95fc-44ee-8ff1-2b10e59b5280" />
 
 
 Type help or a question mark "?" to see the list of all available commands you can use inside msfconsole.
@@ -97,7 +97,7 @@ search type:auxiliary mysql
 ## OUTPUT:
 
 
- <img width="746" height="197" alt="Screenshot 2026-02-06 140125" src="https://github.com/user-attachments/assets/7f74db85-beae-448e-8347-7514a761d3c4" />
+<img width="900" height="169" alt="image" src="https://github.com/user-attachments/assets/1d7d655c-d5a6-4bd9-a7c4-e369af2c3d7e" />
 
 use the auxiliary/scanner/mysql/mysql_version module by typing the module name or associated number to scan MySQL version details.
 use 11
@@ -105,20 +105,20 @@ Or:
 use auxiliary/scanner/mysql/mysql_version
 ## OUTPUT:
 
-<img width="1640" height="698" alt="Screenshot 2026-02-06 140226" src="https://github.com/user-attachments/assets/2df8f343-b722-45a3-8921-1427cf5a0e13" />
+<img width="952" height="665" alt="image" src="https://github.com/user-attachments/assets/6e753ddf-e72f-4a5e-9b63-ad416132d062" />
 
 
 
 Use the set rhosts command to set the parameter and run the module, as follows:
 ## OUTPUT:
 
-<img width="580" height="110" alt="Screenshot 2026-02-06 140457" src="https://github.com/user-attachments/assets/82e79d3c-b5c9-4641-b7b0-07e1fc8bb66b" />
+<img width="684" height="125" alt="image" src="https://github.com/user-attachments/assets/16f94ab2-be45-46d7-ba96-905758789ec1" />
 
 
 After scanning, you can also brute force MySQL root account via Metasploit's auxiliary(scanner/mysql/mysql_login) module.
 ## OUTPUT:
 
-<img width="744" height="487" alt="Screenshot 2026-02-06 140342" src="https://github.com/user-attachments/assets/7ac6dc70-e4e2-4e66-8542-148a9afdd477" />
+<img width="762" height="538" alt="image" src="https://github.com/user-attachments/assets/56e3eb93-10ca-417c-b1ba-72e04ebe4a10" />
 
 
 
