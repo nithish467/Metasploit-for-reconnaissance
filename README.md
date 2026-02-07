@@ -55,7 +55,7 @@ scan the targets with the command db_nmap as follows.
 msf > db_nmap 192.168.181.0/24
 ## OUTPUT:
 
-<img width="641" height="390" alt="Screenshot 2026-02-06 133530" src="https://github.com/user-attachments/assets/8001f49e-781e-45a0-9fa0-d155288ceaea" />
+<img width="716" height="382" alt="image" src="https://github.com/user-attachments/assets/d98d6644-67c9-4c3c-943d-7dca62c47ea0" />
 
 
 
@@ -65,14 +65,14 @@ cd /usr/share /metasploit-framework/modules/auxiliary
 kali > ls -l
 ## OUTPUT:
 
-<img width="670" height="507" alt="Screenshot 2026-02-06 134246" src="https://github.com/user-attachments/assets/b8ca01ed-dcab-4c1d-a907-11379cb51475" />
+<img width="752" height="506" alt="image" src="https://github.com/user-attachments/assets/1a16c11e-ba67-4fa4-8232-7af632934d9c" />
 
 
 Search is a powerful command in Metasploit that you can use to find what you want to locate. 
 msf >search name:Microsoft type:exploit
 ## OUTPUT:
 
-<img width="1698" height="821" alt="Screenshot 2026-02-06 134456" src="https://github.com/user-attachments/assets/eb8f2ffd-8d0b-44eb-92bd-479a625b861e" />
+<img width="945" height="881" alt="image" src="https://github.com/user-attachments/assets/852aa389-b2a9-4968-b3cd-2016c80068c4" />
 
 
 The info command provides information regarding a module or platform,
@@ -82,7 +82,7 @@ systemctl start postgresql
 msfdb init
 ## OUTPUT:
 
-<img width="731" height="896" alt="Screenshot 2026-02-06 134629" src="https://github.com/user-attachments/assets/363d49e2-217e-4730-baae-5cba45426a38" />
+<img width="940" height="854" alt="image" src="https://github.com/user-attachments/assets/c02f683c-ab40-4d1e-a048-4d5ab449a560" />
 
 
 
